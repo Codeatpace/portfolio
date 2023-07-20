@@ -1,15 +1,36 @@
-.navLink{
+.navLink {
   padding: 10px;
   color: black;
   text-decoration: none;
 }
 
-.navbar-brand{
+.navbar-brand {
   font-family: 'Courier New', Courier, monospace;
-  font-weight: bolder; 
+  font-weight: bolder;
 }
 
-.formm{
+.pp {
+  border-radius: 10%;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+.name{
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.info {
+  margin-top: 30px;
+}
+
+.formm {
   height: 20rem;
   width: 40rem;
   border-radius: 5px;
@@ -19,24 +40,45 @@
   margin-left: 25%;
 }
 
-.headForm{
+.footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  /* height: 100px; */
+}
+
+.iconn{
+  font-size: 25px;
+}
+
+h5 {
   text-decoration: underline;
 }
 
-input{
-  margin-bottom: 10px;
+a{
+  color: black;
+  text-decoration: none;
+  font-family: 'Times New Roman', Times, serif;
 }
 
+.card {
+  border: 1px solid black;
+}
 
+.butn {
+  background: rgb(28, 28, 28);
+  border: 1px solid black;
+  padding: 5px 10px;
+  color: rgb(243, 240, 240);
+  text-decoration: none;
+  border-radius: 5px;
+}
 
+.headForm {
+  text-decoration: underline;
+}
 
-
-
-
-
-
-
-
-
-
-
+input {
+  margin-bottom: 10px;
+}

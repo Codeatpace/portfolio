@@ -1,5 +1,6 @@
 import React from 'react'
 import '../App.css'
+import Footer from '../components/Footer'
 
 const Contact = () => {
   return (
@@ -13,6 +14,7 @@ const Contact = () => {
           <textarea placeholder='Your Message' rows={4} cols={50}/>
         </form>
       </div>
+      <Footer/>
     </>
   )
 }
