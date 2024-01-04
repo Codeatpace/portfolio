@@ -10,8 +10,8 @@ export const Footer = () => {
     <>
         <div className='footer container'>
             <div className='row'>
-                <div className='iconn col-4'><a href='https://www.linkedin.com/in/sakshi-singh-1a0691229/'><center><FontAwesomeIcon icon={faLinkedin} className="linkedin-icon" /></center></a></div>
-                <div className='iconn col-4'><a href=''><center><FontAwesomeIcon icon={faEnvelope} className="mail-icon" /><small>singhsakshidb@gmail.com</small></center></a></div>
+                <div className='iconn col-4'><a target='_blank' href='https://www.linkedin.com/in/sakshi-singh-1a0691229/'><center><FontAwesomeIcon icon={faLinkedin} className="linkedin-icon" /></center></a></div>
+                <div className='iconn col-4'><a href='https://gmail.com/' target='_blank'><center><FontAwesomeIcon icon={faEnvelope} className="mail-icon" /><small>singhsakshidb@gmail.com</small></center></a></div>
                 <div className='iconn col-4'><a href=''><center><FontAwesomeIcon icon={faPhone} className="phone-icon" /><small>8591903863</small></center></a></div>
             </div>
         </div>
