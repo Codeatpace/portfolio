@@ -22,23 +22,26 @@ const About = () => {
           <div className='col-4'>
             <div className='card'>
               <center><h4>Experience</h4></center><br/>
-              <ul><li><b>Tag8 (3Y Ventures LLP)</b> - <small>09/2022 - 02/2023</small>
+              <ul><li><b>Devtown</b> - <small>09/2022 - 12/2023</small>
+              <br/><b>Full Stack Development Content Creation</b>
+              <p>Created Twitter Clone Using ReactsJS. Created Computer Networks and Operating System Complete Course</p></li></ul>
+              <ul><li><b>Tag8 (3Y Ventures LLP)</b> - <small>08/2022 - 03/2023</small>
               <br/><b>Software Testing and Improvement Analytics Intern</b>
               <p>I was working in the areas of Testing and Analytics of Company's
 Website and Application. I have improved a lot of skills including
 Communication, Team bonding, Discipline, and OfCourse Coding and
 Testing.</p></li></ul>
-<ul><li><b>KlusterWise Pvt. Ltd</b> - <small>05/2022 - 06/2022</small>
-              <br/><b>Content Creation Intern</b>
-              <p>Educator, Created Java and C Programming Tutorial Videos for the firm.</p></li></ul>         
             </div>
           </div>
           <div className='col-4'>
             <div className='card'>
               <center><h4>Achievements</h4></center>
               <ul>
-                <li>Stood 2nd rank in 1st yr. of BSc IT</li>
-                <li>Received Student of the Year Award in 10th grade</li>
+                <li>Partipated in <b>MumbaiHacks</b>, 2023</li>
+                <li><b>HOD</b> of Content Department of Technika(BscIT Fest)</li>
+                <li>Have <b>hosted</b> various cultural and Official Events of BscIT department as well as of College</li>
+                <li>Stood <b>2nd rank</b> in 1st yr. of BSc IT</li>
+                <li>Received <b>Student of the Year Award</b> in 10th grade</li>
                 <li><a href='https://www.hackerrank.com/singhsakshidb' style={{color:'black', textDecoration:'none', fontFamily:'cursive'}} target='_blank'> Hacker Rank </a></li>
                 <li><a href='https://github.com/Codeatpace' style={{color:'black', textDecoration:'none', fontFamily:'cursive'}} target='_blank'> GitHub </a></li>
               </ul>
